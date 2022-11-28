@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Web Programozás"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Home"
+	}
+}

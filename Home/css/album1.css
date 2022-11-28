@@ -1,0 +1,91 @@
+body, html {
+    height: 100%;
+  }
+
+  body{
+    background-image: url("/Images/aries_album_bg1.JPG");
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    overflow-y: hidden;
+    
+}
+.album{
+    width: 30%;
+    margin-left: 1cm;
+    border-style: solid;
+    border-color: white;
+    padding: auto;
+    float: left;
+}
+
+.spotify{
+    width: 10%;
+    margin-top: 8cm;
+    margin-left: 0cm;
+    
+}
+.spotify:hover{
+    filter: invert(1);
+    
+}
+
+.apple{
+    width: 14%;
+    margin-bottom: -1cm;
+    margin-left: 7cm
+}
+.apple:hover{
+    filter:invert(1)
+    
+}
+
+
+h1 {
+    color: white;
+    margin-left:18cm;
+    margin-top: 1cm;
+    font-size: 500%;
+    text-align: center;
+}
+ul {
+    list-style:none;
+    margin-left: 1cm;
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+li {
+    margin-left: 50cm;
+    margin-left: 1cm;
+    color: white;
+    padding: 5px;
+    display:inline-block
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: rgb(251, 205, 123);
+}
+
+.p1{
+    color: white;
+    float: left;
+    text-align: left;
+    font-size: 170%;
+    margin-left: 2cm;
+    margin-bottom: 10cm;
+}
+.p1:hover{
+    color: rgb(204, 153, 255);
+}
+.p2{
+    color: white;
+    float: right;
+    text-align: right;
+    font-size: 170%;
+    margin-right: 2cm;
+}
